@@ -2,6 +2,6 @@
 
 A Github repository containing a collection of R snippets from the statistics lectures at UiB.
 
-**Contributions:**
+🤝**Contributions:**
 <br>
 Jacob Romskoug-Solvær
