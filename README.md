@@ -1,5 +1,5 @@
 # R-kode-STAT
 
-Contributions:
+**Contributions:**
 <br>
 Jacob Romskoug-Solvær
