@@ -5,3 +5,5 @@ A Github repository containing a collection of R snippets from the statistics le
 🤝**Contributions:**
 <br>
 Jacob Romskoug-Solvær
+<br>
+Sebastian Helgesen
